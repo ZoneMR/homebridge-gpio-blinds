@@ -1,4 +1,4 @@
-# homebridge-noolite-http-blinds
+# homebridge-gpio-blinds
 
 Control Somfy/Velux/etc blinds via remote wired up to the GPIO pins.
 
