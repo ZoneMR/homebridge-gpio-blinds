@@ -22,3 +22,9 @@ Add the accessory in `config.json` in your home directory inside `.homebridge`.
 This plugin based on [homebridge-noolite-http-blinds].
 
 Feel free to contribute to make this a better plugin!
+
+## Hardware
+
+In my case, I connected the RPI GPIO pins directly to the switch terminals on my Somfy / Velux blind remotes.
+
+![Hardware Example](https://dl.dropboxusercontent.com/u/2190056/IMG_1415.jpg)
